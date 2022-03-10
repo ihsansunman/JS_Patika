@@ -1,6 +1,6 @@
 
 ## Badges
-![MIT License](https://img.shields.io/github/license/ihsansunman/JS_Projects) ![issues](https://img.shields.io/github/issues/ihsansunman/JS_Projects) ![stars](https://img.shields.io/github/stars/ihsansunman/JS_Projects)
+![MIT License](https://img.shields.io/github/license/ihsansunman/JS_Projects?style=for-the-badge) ![issues](https://img.shields.io/github/issues/ihsansunman/JS_Projects?style=for-the-badge) ![stars](https://img.shields.io/github/stars/ihsansunman/JS_Projects?style=for-the-badge) ![HTML5](https://img.shields.io/badge/-HTML5-ff6347?logo=html5&logoColor=white&style=for-the-badge) ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?logo=javascript&logoColor=white&style=for-the-badge) ![REACTJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
   
 # JS Project
 
